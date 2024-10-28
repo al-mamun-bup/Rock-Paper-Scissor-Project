@@ -2,12 +2,6 @@
 
 A simple **Rock Paper Scissors Game** built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates the use of basic web technologies and logical algorithms to create a fun, interactive game between the player and the computer.
 
-## Demo  
-![Rock Paper Scissors Demo](https://via.placeholder.com/600x300.png?text=Rock+Paper+Scissors+Game+Demo)  
-*(Replace the image above with an actual screenshot of your game)*
-
----
-
 ## Features  
 - **Interactive Gameplay:** Player vs. Computer  
 - **Real-time Results:** Displays the winner immediately after each round  
@@ -45,4 +39,4 @@ The logic for deciding the winner is implemented using:
 ## Installation and Usage  
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-github-link/rock-paper-scissor-game.git
+   git clone https://github.com/al-mamun-bup/Rock-Paper-Scissor-Project.git
